@@ -1,4 +1,4 @@
-# CalulateX
+# CalculateX
 
 A simple and beautiful dark theme calculator app.
 Calculator is really simple project but this project will clear many topics in android app development.
