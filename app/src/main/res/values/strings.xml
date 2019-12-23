@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculateX</string>
+    <string name="about">CalculateX v2.0</string>
+    <string name="description">This app is developed by Pushpendra Tripathi</string>
+    <string name="info">If you want to create this app and learn Android App Development
+        then follow my blog programmingthewarzone.blogspot.com</string>
+    <string name="blog">Visit Blog</string>
+</resources>
